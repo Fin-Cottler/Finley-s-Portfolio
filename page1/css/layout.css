@@ -16,12 +16,12 @@
 .container {
 	margin: 0px;
 	width: 100vw;
-	height: 300vh;
+	height: auto;
 	padding: 0px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	overflow-y: scroll;
+
 }
 
 
